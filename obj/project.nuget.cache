@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOInQi3dVrs=",
+  "success": true,
+  "projectFilePath": "/home/treatise/Documents/ne/jerk/jerk.csproj",
+  "expectedPackageFiles": [
+    "/home/treatise/.nuget/packages/lib.harmony/2.3.7-prerelease/lib.harmony.2.3.7-prerelease.nupkg.sha512",
+    "/home/treatise/.nuget/packages/system.text.json/9.0.1/system.text.json.9.0.1.nupkg.sha512",
+    "/home/treatise/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
