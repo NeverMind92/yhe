@@ -1,0 +1,122 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "jerk/1.0.0": {
+        "dependencies": {
+          "Lib.Harmony": "2.3.7-prerelease",
+          "Content.Client": "1.0.0.0",
+          "Content.Shared": "1.0.0.0",
+          "Robust.Client": "266.0.0.0",
+          "Robust.Shared": "266.0.0.0",
+          "Robust.Shared.Maths": "266.0.0.0"
+        },
+        "runtime": {
+          "jerk.dll": {}
+        }
+      },
+      "Lib.Harmony/2.3.7-prerelease": {
+        "dependencies": {
+          "System.Text.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/net9.0/0Harmony.dll": {
+            "assemblyVersion": "2.3.7.0",
+            "fileVersion": "2.3.7.0"
+          }
+        }
+      },
+      "System.Text.Json/9.0.1": {},
+      "Content.Client/1.0.0.0": {
+        "runtime": {
+          "Content.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Content.Shared/1.0.0.0": {
+        "runtime": {
+          "Content.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Robust.Client/266.0.0.0": {
+        "runtime": {
+          "Robust.Client.dll": {
+            "assemblyVersion": "266.0.0.0",
+            "fileVersion": "266.0.0.0"
+          }
+        }
+      },
+      "Robust.Shared/266.0.0.0": {
+        "runtime": {
+          "Robust.Shared.dll": {
+            "assemblyVersion": "266.0.0.0",
+            "fileVersion": "266.0.0.0"
+          }
+        }
+      },
+      "Robust.Shared.Maths/266.0.0.0": {
+        "runtime": {
+          "Robust.Shared.Maths.dll": {
+            "assemblyVersion": "266.0.0.0",
+            "fileVersion": "266.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jerk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib.Harmony/2.3.7-prerelease": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e2why7Bq8XOEpEuCZ9bcscfP16lcdkdDfRBn58axy2Ec/Eo8OZtHJ7fJMkyzfNRXIiy8TqLeOqjyzhEUv62Xxw==",
+      "path": "lib.harmony/2.3.7-prerelease",
+      "hashPath": "lib.harmony.2.3.7-prerelease.nupkg.sha512"
+    },
+    "System.Text.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eqWHDZqYPv1PvuvoIIx5pF74plL3iEOZOl/0kQP+Y0TEbtgNnM2W6k8h8EPYs+LTJZsXuWa92n5W5sHTWvE3VA==",
+      "path": "system.text.json/9.0.1",
+      "hashPath": "system.text.json.9.0.1.nupkg.sha512"
+    },
+    "Content.Client/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Content.Shared/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Robust.Client/266.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Robust.Shared/266.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Robust.Shared.Maths/266.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
